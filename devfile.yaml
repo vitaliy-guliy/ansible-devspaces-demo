@@ -4,7 +4,7 @@ metadata:
 components:
   - name: tooling-container
     container:
-      image: quay.io/devspaces/ansible-creator-ee@sha256:09c5538dd99a369930f71e8f58f38df990a3573a611d61cc03365f197b8f62ce
+      image: registry.redhat.io/devspaces/ansible-creator-ee@sha256:3.8c5538dd99a369930f71e8f58f38df990a3573a611d61cc03365f197b8f62ce
       memoryRequest: 256M
       memoryLimit: 6Gi
       cpuRequest: 250m
