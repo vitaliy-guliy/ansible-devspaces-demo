@@ -2,6 +2,7 @@
     "recommendations": [
         "ms-python.python",
         "redhat.ansible",
-        "redhat.vscode-openshift-connector"
+        "redhat.vscode-openshift-connector",
+        "ms-python.black-formatter"
     ]
 }
